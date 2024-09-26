@@ -1,0 +1,21 @@
+LIBRO;La Divina Comedia;Dante Alighieri;978;true;1843
+La Divina Comedia, tambi n conocida simplemente como Comedia, es una poema escrito por Dante Alighieri.
+CONTENIDO FIN
+LIBRO;Cuentos de Terror de Hp.Lovecraft;Ricardo Guzman;979;false;17 junio 2015
+En todo el mundo el nombre de Howard Philips Lovecraft es sin nimo de terror literarios y es considerado por muchos como un autor de culto.
+CONTENIDO FIN
+REVISTA;Historia National Geographic;National Geographic;977;false;89;3
+CONTENIDO FIN
+LIBRO;El Perfume;Patrick Suskind;800;false;1985
+El Perfume: historia de una asesino es la primera novela del escritor alem n Patrick Suskind, publicada en 1985.
+CONTENIDO FIN
+LIBRO;La Odisea;Homero;801;true;siglo VII a.c
+La Odisea es un poema epico griego
+CONTENIDO FIN
+REVISTA;djeidje;kdekde;232;false;343;4
+CONTENIDO FIN
+LIBRO;LibroX;AutorX;900;false;Libro del autor X que trata sobre x cosas
+Libro del autor X que trata sobre cosas x.
+CONTENIDO FIN
+REVISTA;RevistaX;x;1000;false;12;2
+CONTENIDO FIN
